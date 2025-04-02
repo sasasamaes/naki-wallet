@@ -46,6 +46,15 @@ export function TeamSection() {
       location: "Costa Rica",
       skills: ["Web3", "DApp Development", "Smart Contracts", "Blockchain", "Frontend"],
     },
+    {
+      name: "Juan Pablo Villaplana Corrales",
+      role: "Backend Developer",
+      bio: "Software Engineer 👨🏽‍💻 Web 3 Developer 👷🏽‍♂️ Member of Dojo Coding 🇨🇷.",
+      image: "https://avatars.githubusercontent.com/u/35789725?v=4",
+      github: "https://github.com/PabloVillaplana",
+      location: "Costa Rica",
+      skills: ["Web3", "Python", "Backend", "Solidity", "Php"],
+    },
   ]
 
   return (

@@ -66,7 +66,7 @@ export function InvestmentContent() {
 
           <section className="space-y-4 rounded-xl border bg-white p-6 shadow-sm">
             <h2 className="text-2xl font-bold">Funding Allocation</h2>
-            <p className="text-muted-foreground">The $750,000 we're raising will be allocated as follows:</p>
+            <p className="text-muted-foreground">The $350,000 we're raising will be allocated as follows:</p>
 
             <div className="space-y-6 mt-6">
               <div className="space-y-3">
@@ -87,7 +87,7 @@ export function InvestmentContent() {
                 </ul>
               </div>
 
-              <div className="space-y-3">
+              {/* <div className="space-y-3">
                 <div className="flex items-center">
                   <div className="flex h-10 w-10 items-center justify-center rounded-full bg-purple-100">
                     <BarChart3 className="h-5 w-5 text-purple-700" />
@@ -101,9 +101,9 @@ export function InvestmentContent() {
                   <li>• Compliance and regulatory requirements</li>
                   <li>• Operational expenses for 12 months</li>
                 </ul>
-              </div>
+              </div> */}
 
-              <div className="space-y-3">
+              {/* <div className="space-y-3">
                 <div className="flex items-center">
                   <div className="flex h-10 w-10 items-center justify-center rounded-full bg-purple-100">
                     <Users className="h-5 w-5 text-purple-700" />
@@ -116,7 +116,8 @@ export function InvestmentContent() {
                   <li>• Educational content to drive adoption</li>
                   <li>• Referral program implementation</li>
                 </ul>
-              </div>
+              </div> */}
+              
             </div>
           </section>
 
