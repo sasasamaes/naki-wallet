@@ -27,44 +27,45 @@ export function PresentationContent() {
       title: "Introduction to Naki Wallet",
       description: "Overview of key features and value proposition",
       image:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202025-03-21%20at%209.10.21%E2%80%AFPM-AHlvnObKlY9juR5Bg4JDkPQM0MZshG.png",
+        "/presentation/1.png",
     },
     {
       title: "El Problema",
       description: "The challenges with current crypto wallets",
       image:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202025-03-21%20at%209.10.38%E2%80%AFPM-6QJ3okCElKuw0OS7eN9kTujpXl0aYG.png",
+        "/presentation/2.png",
     },
     {
       title: "La Solución",
       description: "How Naki solves these problems",
       image:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202025-03-21%20at%209.10.46%E2%80%AFPM-Qr1vc91HsQez0oXjmhUPwc5mxFZKLL.png",
+        "/presentation/3.png",
     },
     {
       title: "Visión",
       description: "Democratizing cryptocurrencies for everyone",
       image:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202025-03-21%20at%209.10.56%E2%80%AFPM-UpeWIggzlQIhVw6wZsxDZ1n3pvVLCN.png",
+      "/presentation/4.png",
+    },
+    {
+      title: "Current Status",
+      description: "Status of the project",
+      image:
+        "/presentation/5.png",
     },
     {
       title: "Market Landscape",
       description: "Crypto adoption in Latin America",
       image:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202025-03-21%20at%209.11.13%E2%80%AFPM-7ySOtrU3FOIlD95Ve8VdpUd5ePhnNL.png",
+        "/presentation/6.png",
     },
     {
       title: "Panorama del Mercado",
       description: "Competition, trends, and differentiation",
       image:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202025-03-21%20at%209.11.26%E2%80%AFPM-wbJAHQtGx3PGLcK9aGDNjSUxqUqqQH.png",
+        "/presentation/8.png",
     },
-    {
-      title: "Estado Actual",
-      description: "Current status, strengths, and upcoming milestones",
-      image:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202025-03-21%20at%209.11.03%E2%80%AFPM-BL3kOas9mA0zELYu1f7b29nXO6Eafv.png",
-    },
+
     {
       title: "Team",
       description: "Meet the team behind Naki Wallet",
@@ -75,7 +76,7 @@ export function PresentationContent() {
       title: "Business Model",
       description: "Revenue streams and monetization strategy",
       image:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202025-03-21%20at%209.11.20%E2%80%AFPM-q3IQRt8JM0ZXTzTCbWf1U9bhixo8sE.png",
+        "/presentation/7.png",
     },
   ]
 
