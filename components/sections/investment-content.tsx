@@ -22,7 +22,7 @@ export function InvestmentContent() {
             <h1 className="text-4xl font-bold tracking-tighter sm:text-5xl">Naki Wallet Fundraising Summary</h1>
             <div className="inline-flex items-center justify-center rounded-full bg-purple-100 px-6 py-3">
               <DollarSign className="mr-2 h-5 w-5 text-purple-700" />
-              <span className="text-xl font-bold text-purple-700">Funding Needed: $750,000</span>
+              <span className="text-xl font-bold text-purple-700">Funding Needed: $350,000</span>
             </div>
           </div>
 
@@ -117,7 +117,7 @@ export function InvestmentContent() {
                   <li>• Referral program implementation</li>
                 </ul>
               </div> */}
-              
+
             </div>
           </section>
 
@@ -261,7 +261,7 @@ export function InvestmentContent() {
               </div>
               <div className="rounded-lg bg-purple-50 p-4">
                 <h3 className="font-medium text-muted-foreground">Current Round Target</h3>
-                <p className="text-xl font-bold">$750,000 in pre-seed funding</p>
+                <p className="text-xl font-bold">$350,000 in pre-seed funding</p>
                 <p className="text-sm text-muted-foreground">Valuation cap: $7.5M</p>
               </div>
             </div>
